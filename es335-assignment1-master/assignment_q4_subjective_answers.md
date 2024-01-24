@@ -1,0 +1,10 @@
+# Plots
+
+![DecisionTree_learning_variedN](plots/DecisionTree_learning_variedN.png)
+![DecisionTree_predicting_variedN](plots/DecisionTree_predicting_variedN.png)
+![Sklearn_learning_variedN](plots/Sklearn_learning_variedN.png)
+![Sklearn_predicting_variedN](plots/Sklearn_predicting_variedN.png)
+![DecisionTree_learning_variedM](plots/DecisionTree_learning_variedM.png)
+![DecisionTree_predicting_variedM](plots/DecisionTree_predicting_variedM.png)
+![Sklearn_learning_variedM](plots/Sklearn_learning_variedM.png)
+![Sklearn_predicting_variedM](plots/Sklearn_predicting_variedM.png)
