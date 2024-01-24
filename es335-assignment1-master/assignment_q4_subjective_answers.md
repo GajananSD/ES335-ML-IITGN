@@ -1,5 +1,3 @@
-# Plots
-
 ![DecisionTree_learning_variedN](plots/DecisionTree_learning_variedN.png)
 ![DecisionTree_predicting_variedN](plots/DecisionTree_predicting_variedN.png)
 ![Sklearn_learning_variedN](plots/Sklearn_learning_variedN.png)
