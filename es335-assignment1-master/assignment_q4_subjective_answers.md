@@ -1,4 +1,4 @@
-![DecisionTree_learning_variedN](es335-assignment1-master/plots/DT_learning_Varied%20M.png)
+![DecisionTree_learning_variedN](plots/DT_learning_Varied%20M.png)
 ![DecisionTree_predicting_variedN](plots/DecisionTree_predicting_variedN.png)
 ![Sklearn_learning_variedN](plots/Sklearn_learning_variedN.png)
 ![Sklearn_predicting_variedN](plots/Sklearn_predicting_variedN.png)
