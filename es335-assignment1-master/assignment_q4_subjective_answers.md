@@ -1,5 +1,5 @@
 ![DecisionTree_learning_variedN](plots/DT_learning_Varied%20M.png)
-![DecisionTree_predicting_variedN](plots/DecisionTree_predicting_varied%20N.png)
+![DecisionTree_predicting_variedN](plots/DT_predicting_varied%20N.png)
 ![Sklearn_learning_variedN](plots/Sklearn_learning_varied%20N.png)
 ![Sklearn_predicting_variedN](plots/Sklearn_predicting_varied%20N.png)
 ![DecisionTree_learning_variedM](plots/DecisionTree_learning_varied%20M.png)
